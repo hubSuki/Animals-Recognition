@@ -1,0 +1,11 @@
+matplotlib==3.10.7
+numpy==2.3.3
+Pillow==11.3.0
+PyQt5==5.15.11
+PyQt5_sip==12.17.0
+scikit_learn==1.7.2
+seaborn==0.13.2
+torch==2.5.0
+torchsummary==1.5.1
+torchvision==0.20.0
+tqdm==4.67.1
